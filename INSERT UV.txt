@@ -1,0 +1,1029 @@
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("BL01","Sciences Biologiques Pour L'Ingénieur",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("BL10","Structures Et Physicochimie Des Molécules Biologiques",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("BL22","Microbiologie Et Biologie Moléculaire",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("CM01","Physique De La Matière",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("CM11","Chimie Générale",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("CM12","Chimie Physique Minérale",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("CM13","Chimie Des Substances Organiques Et Biologiques",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("CM15","Systemes Colloidaux - Applications Agroalimentaires",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("EL01","Phénomènes Electromagnétiques",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("EN21","Bases De L'électronique Analogique",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("IA02","Résolution De Problèmes Et Programmation Logique",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("MQ01","éléments De Resistance Des Matériaux",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("MQ03","Mécanique Des Vibrations I",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("MQ17","Introduction Aux Propriétés Mécaniques Et à L'Ingénierie Des Matériaux",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("MQ18","Cinématique Et Dynamique Des Systèmes",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("MT10","Structures,Calcul Formel Et Algorithmes",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("MT12","Methodes Mathematiques Pour L'Analyse Du Signal Et De L'Image",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("MT22","Fonctions De Plusieurs Variables Réelles Et Applications",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("MT23","Algèbre Linéaire Et Applications",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("MT90","Fonctions D'Une Variable Reelle 1",4"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("MT91","Fonctions D'Une Variable Reelle 2",3"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("NF04","Modélisation Numérique Des Problèmes De L'Ingénieur",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("NF16","Algorithmique Et Structures De Données",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("PS04","Thermodynamique",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("PS91","Mecanique Physique",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("PS92","Dynamique Des Systemes Et Des Solides",3"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("PS93","Optique Geometrique",3"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("PS94","Electricite",3"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("RO03","Recherche Opérationnelle, Optimisation Combinatoire",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("RR01","Cinétique Chimique Et Réacteurs Homogènes",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("SR02","Systèmes D'Exploitation : Des Concepts à La Programmation",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("SY01","éléments De Probabilités",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("SY02","Méthodes Statistiques Pour L'Ingénieur",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("SY04","Systèmes Asservis Linéaires : Analyse Et Commande",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("SY14","éléments D'Automatique",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("TF01","Mécanique Des Fluides Incompressibles",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("TF06","Transfert De Chaleur",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("TN06","Transmission Des Efforts En Mécanique",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("BA07","Modes Opératoires De La Construction",5"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("BL09","Biophysique Des Systèmes Biologiques",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("BM01","Introduction à L'Instrumentation Biomédicale",5"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("BT02","Opérations Agro-Industrielles",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("C2I1","Certificat Informatique Et Internet Niveau 1",4"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("CM70","Travaux Pratiques De Gp (1)",3"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("DD02","Introduction A L'Eco-Conception Et A L'Analyse De Cycle De Vie",3"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("EL02","électricité Industrielle Appliquée",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("FQ01","économie Globale Et Maitrise De La Qualité",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("GE37","Gestion De Projet",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LO01","Bases De La Programmation",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LO21","Programmation Et Conception Orientees Objet",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LO22","Genie Logiciel",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("MT94","Introduction Aux Mathematiques Appliquées",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("NF01","Algorithmique Et Programmation",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("NF02","Du Circuit Intégré Au Microprocesseur",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("NF15","Microprocesseurs, Interfaces Et Logiciels De Bases",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("NF17","Conception De Bases De Données",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("NF22","Micro-Ordinateurs Et Applications",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("NF92","Traitement Automatique De L'Information",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("NP90","Nano-Projets",2"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("NX17","Introduction Aux Bases De Donnees",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("PR","Réalisation De Projet",5"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("PS09","Acoustique Appliquée",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("PS90","Introduction A La Mesure",3"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("TF14","Les Opérations De Transfert De Matière",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("TN01","éléments De Dessin Technique",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("TN02","Introduction A La Conception Mécanique",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("TN03","Fabrication Mécanique",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("TN04","Réalisation",4"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("TN08","Dessin De Communication",5"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("TN20","Cao : Modélisation Géométrique",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("TN22","éléments De Bureau D'études",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("TR91","Techniques De Recherche D'Information Pour L'Ingenieur",2"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("TS01","Maitrise Des Risques",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("TX","étude Expérimentale",5"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("UB04","Ambiances Et Environnement Lumineux",5"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("UR03","Cartographie Sémiologie Graphique Et Cao/Dao",5"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("UR05","Aménagement Et Environnement",5"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("AR03","Art Et Technologies Contemporaines",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("DI01","Initiation Au Design Industriel",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("DI02","Initiation Au Design Graphique",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("EI03","Communication Interculturelle En Entreprises, Organisations Transnationales",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("EI04","Intelligence économique : Stratégie D'Entreprise, Démarche Et Outils",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("EI05","Science, Technologie Et Société Dans L'Union Européenne",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("GE10","économie Politique",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("GE12","Géographie Et économie Des Territoires",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("GE13","Les Risques Entre Technique Et Societe",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("GE15","Initiation A La Création Et Gestion D'Entreprises Innovantes",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("GE20","économie Industrielle",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("GE21","économie Et Gestion De L'Innovation Et Du Numérique",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("GE22","économie Internationale",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("GE23","Transferts De Technologies Et Développements",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("GE24","Recherche Developpement : Ingenieur Et Investisseurs",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("GE25","Gestion Et Organisation De La Production",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("GE26","Management Stratégique Des Ressources Humaines",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("GE28","économie Et Droit De La Propriété Intellectuelle (Industrielle Et Artistique) Dans Une économie Reposant Sur La Connaissance",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("GE29","Gestion Et Management International De L'Entreprise",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("GE36","Marketing",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("GE90","Organisation, Innovation Et International",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("HE01","épistémologie Et Histoire Des Sciences",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("HE03","Logique : Histoire Et Formalisme",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("HE05","Culture Et Histoire Des Techniques",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("IC01","Histoire Et Prospective Des Industries Culturelles",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("IC03","Le Numérique : Des Formats Aux Chaines De Production",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("IC05","Technologies Pour La Documentation Et L'Indexation Dans L'Hypermédia",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("IC07","Techniques Et Technologies Du Musical Et Du Sonore",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LA00","Allemand Initiation",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LA01","Allemand Niveau I",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LA02","Allemand Niveau II",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LA03","Allemand Niveau III",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LA04","Pratique De La Communication En Allemand",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LA11","Anglais Niveau I",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LA12","Anglais Niveau II",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LA13","Anglais Niveau III",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LA14","Civilisation Du Monde Anglophone",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LA15","Anglais Professionnel - Niveau V",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LA20","Espagnol Initiation",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LA21","Espagnol Niveau I",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LA22","Espagnol Niveau II",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LA23","Espagnol Niveau III",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LA24","Le Monde Hispanique Contemporain : L'Amérique Latine (Niveau IV)",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LA91","Francais Langue étrangère Niveau I",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LA92","Francais Langue étrangère Niveau II",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LA93","Francais Langue étrangère Niveau III",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LA94","Francais Langue étrangère Niveau IV",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LB04","Interculturalité Franco-Allemande",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LB14","Interculturalité Appliquée Aux Pays Anglophones",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LB24","Le Monde Hispanique (Niveau IV): L'Espagne",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LC14","Communication Scientifique Et Technique En Anglais",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LG30","Japonais Initiation",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LG31","Japonais Niveau I",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LG40","Portugais Initiation",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LG41","Portugais Niveau I",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LG42","Portugais Niveau II",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LG50","Italien Initiation",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LG51","Italien Niveau I",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LG52","Italien Niveau II",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LG60","Chinois Initiation",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LG61","Chinois Niveau I",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("MU01","Pratique Instrumentale D'Ensemble",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("MU02","Pratique Instrumentale De Haut Niveau",8"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("MU03","Pratique Collective Des Musiques Contemporaines",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("PH01","Introduction à La Philosophie",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("PH09","éthiques : Approche Pluridisciplinaire",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("SA11","Pratiques Théatrales",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("SC01","Séminaire Interdisciplinaire De Sciences Et Technologies Cognitives",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("SC11","Théorie Des Sciences Cognitives : Computation Et énaction",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("SC12","Technologie, Cognition, Perception",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("SC21","Linguistique Et Philosophie Du Langage",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("SC22","Sociologie Cognitive, Lien Social Et Techniques",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("SI01","Science Et Debat Public",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("SI02","Communication Professionnelle De L'Ingénieur",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("SI05","Theories De La Communication",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("SI06","La Documentattion Cross-Media Pour Les Entreprises Et Les Collectivites Locales",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("SI07","Medias Classiques Et Medias Numeriques",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("SI11","Expression Orale- Parole Publique",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("SI14","Parole Publique En Anglais",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("SI20","Rhetorique Et Arts Du Discours",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("SI22","Signes Et Contenus Numeriques",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("SI24","études Des écritures Numériques Ordinaires",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("SI28","écriture Interactive Et Multimédia",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("SI90","Séminaire De Communication Des Connaissances Technologiques",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("SL","Suivi Linguistique",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("SO04","Initiation Au Droit",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("SO05","Sociologie, Organisations Et Dynamiques Des Collectifs",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("SP01","Un Corps Pour Comprendre Et Apprendre",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("SP02","Conduire Un Projet Sportif",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("TN16","étude Interculturelle",4"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("TO01","Module De Preparation Au Toeic",2"TSH");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("MT34","Analyse 2 : Mesures, Intégrations, Probabilités",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("MT37","Logiques, Quelques Approfondissements Mathématiques Et Philosophiques",3"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("MT38","Probabilités",3"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("AP","Atelier Projet",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("API06","Analyse De Donnees Et Data Mining (Apprentissage)",4"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("API07","Architecture Des Applications Internet, Programmation Web Et Securite (Apprentissage)",3"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("API08","Ihm Et Multimédia (Apprentissage)",4"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("API09","Méthodes Et Outils Pour L'Optimisation Et La Simulation (Apprentissage)",4"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("API10","Méthodes De Vérification Et Validation De Logiciel Et Programmation Sous Linux (Apprentissage)",3"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("BA01","Equipements Techniques Du Batiment",5"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("BA02","Gestion Technique Du Patrimoine Immobilier",5"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("BA04","Conversion Et Gestion Des Energies Renouvelables",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("BA09","Introduction Au Calcul Des Structures Du Batiment",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("BI01","Modeles Pour La Bioinformatique",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("BL30","Physiologie Des Systèmes Intégrés",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("BL40","Génie Cellulaire",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("BM02","Organes Artificiels Et Biorheologie",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("BM08","Modélisation Des Systèmes Biomécaniques",5"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("BT06","Analyse Des Produits Biologiques Et Alimentaires",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("BT10","Risques Biologiques Et Sécurité Alimentaire",5"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("BT21","Biotechnologies Moleculaires Et Genie Genetique",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("BT22","Les Agroressources",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("CM06","Calcul D'Une Opération Industrielle",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("CM40","Catalyse Heterogene",3"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("CT02","Maitrise Statistique Des Processus",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("CT04","Controles Non Destructifs",5"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("DI03","Conception Formelle Des Produits",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("DI05","Methodologie Et Analyse De La Valeur",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("DI06","Analyse Des Produits De Consommation",5"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("EG01","Ergonomie",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("EN14","Fonctions Électroniques Pour L'Ingénieur",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("EV01","Procédés De Traitement Des Déchets",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("FPP02","Fiabilite Et Ingenierie Robuste De Produits (Apprentissage)",3"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("FQ07","La Qualité Des Services A L'Industrie",5"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("GE38","Management Et Outils D'Aide à La Créativité Industrielle Et à L'Innovation",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("GE39","Management Et Marketing De L'Innovation",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("GPL01","Gestion De Production Et Erp (Apprentissage)",5"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("IA04","Systèmes Multiagents",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LO17","Indexation Et Recherche D'Information",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("LO18","Projets Multimédia Pour La Formation",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("MAT03","Mecanique Des Materiaux (Apprentissage)",3"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("MB11","Révision D'Analyse Et D'Algèbre (Gb, Gi, Gsu)",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("MC01","Machines Électriques",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("MC05","Machines De Transfert De Fluides",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("MC07","Électronique De Puissance",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("MEQ03","Dynamique Des Solides (Apprentissage)",3"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("MI03","Systèmes Temps Réel",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("MP02","Introduction Aux Méthodes De La Gpao",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("MQ02","Mécanique Des Solides Déformables",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("MQ04","Polymères",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("MQ06","Modélisation Des Structures Par Éléments Finis",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("MQ08","Elaboration Et Proprietes D'Usage Des Metaux",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("MQ09","Mécanique Des Vibrations II",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("MQ10","Comportement Mécanique Des Matériaux",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("MQ11","Mise En Oeuvre Des Matériaux",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("MQ14","Optimisation En Mécanique",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("MQ19","Dynamique Des Structures",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("MS02","Principes Physiques Des Capteurs Et Instrumentation",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("MS03","Pratique Expérimentale En Acoustique Et Vibrations",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("NF11","Théorie Des Langages De Programmation",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("NF24","Modelisation Et Simulation Des Procedes",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("NF26","Data Warehouse Et Outils Décisionnels",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("NF28","Ingénierie Des Systèmes Intéractifs",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("NF33","Conception Et Architecture De Systèmes Numériques Informatiques",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("PS05","Fondements De L'Acoustique Et Modélisations",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("RO04","Optimisation Et Recherche Opérationnelle",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("SCI08","Introduction A L'Ingenierie Systeme",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("SR03","Architecture Des Applications Internet",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("SY05","Conduite Des Procédés",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("SY06","Analyse Et Traitement Du Signal",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("SY09","Analyse Des Données Et Data Mining",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("SY12","Modélisation Et Performance Des Systèmes De Production",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("SY15","Automatique Avancée",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("SY26","Télécommunications",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("TA02","Évaluation Économique Des Procédés",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("TF07","Calcul Des Échangeurs Thermiques Industriels",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("TF08","Hydrodynamique Des Systèmes Dispersés",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("TMI01","Conception Niveau 2 (Apprentissage)",5"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("TMI05","Fabrication Assistee Par Ordinateur Et Machines A Commande Numerique (Apprentissage)",3"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("TN12","Conception Mécanique",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("TN13","Dimensionnement Pour La Conception Des Systemes Mecaniques",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("TN15","Création De Produit, D'Activité, D'Entreprise",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("TN24","Technologies De Fabrication Et Outils Méthodes",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("TN29","Outils De Definition Et De Developpement De Systemes",6"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("TN30","Xao En Milieu Professionnel",3"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("UB02","Systemes De Transport Urbain",5"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("UB06","Mises En Scènes Urbaines",5"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("UB08","Hydrologie Urbaine",6"CS");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("UR01","Droit De L'Urbanisme, De La Construction Et De L'Environnement",5"TM");
+
+
+
+INSERT INTO UV (Code, description, nb_credits, categorie) VALUES("UXD01","Design D'Experience",6"TM");
